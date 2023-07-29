@@ -22,7 +22,7 @@ Hi there, I'm Hakan👋
 
 * 📌 Izmir, Turkey
 * 🗣️ Languages: **Turkish (Native Speaker), English**  🙇 Now learning: **Spanish** 
-* ✉️ You can contact me at [hakantastan@gmail.com](mailto:hakantastan@gmail.com)
+* ✉️ You can contact me at [hakantastan15@gmail.com](mailto:hakantastan15@gmail.com)
 * 🌱 Learning more about and studying: **Reinforcement Learning, Algorithms, Software Design Patterns and Architectures**
 * 🧩 Interests: 🎮 Video Games, 🏎️ Formula 1, 🎲 board games, 🧝🏼 High fantasy books
 
