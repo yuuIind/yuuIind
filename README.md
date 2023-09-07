@@ -27,7 +27,7 @@ Hi there, I'm Hakan👋
 * 🌱 Learning more about and studying: **Reinforcement Learning, Algorithms, Software Design Patterns and Architectures**
 * 🧩 Interests: 🎮 Video Games, 🏎️ Formula 1, 🎲 board games, 🧝🏼 High fantasy books
 
-### Skills
+### Tech Stack & Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
