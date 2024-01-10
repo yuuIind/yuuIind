@@ -23,7 +23,7 @@ Hi there, I'm Hakan👋
 * 📌 Izmir, Turkey
 * 🗣️ Languages: **Turkish (Native Speaker), English**  🙇 Now learning: **Spanish, Korean** 
 * 📫 You can contact me at [hakantastan15@gmail.com](mailto:hakantastan15@gmail.com)
-* 📜 Interested in Machine Learning and Deep Learning, In particular Computer Vision.
+* 📜 Interested in 🤖 Machine Learning and Deep Learning, In particular Computer Vision.
 * 🌱 Learning more about and studying: **Rust, Computer Graphics**
 * 🧩 Interests: 🎮 Video Games, 🏎️ Formula 1, 🎲 board games, 🧝🏼 High fantasy books
 
