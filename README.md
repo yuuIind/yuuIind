@@ -21,9 +21,9 @@ Hi there, I'm Hakan👋
 ### About me
 
 * 📌 Izmir, Turkey
-* 🗣️ Languages: **Turkish (Native Speaker), English**  🙇 Now learning: **Spanish, Korean** 
-* 📫 You can contact me at [hakantastan15@gmail.com](mailto:hakantastan15@gmail.com)
-* 📜 Interested in 🤖 Machine Learning and Deep Learning, In particular Computer Vision.
+* 🗣️ Languages: **🇹🇷 Turkish, 🇬🇧 English**  🙇 Now learning: **🇪🇸 Spanish, 🇰🇷 Korean** 
+* 📫 You can contact me at [mhakan.tastan@gmail.com](mailto:mhakan.tastan@gmail.com)
+* 📜 Interested in 🤖 Machine Learning and Deep Learning, in particular Computer Vision.
 * 🌱 Learning more about and studying: **Rust, Computer Graphics**
 * 🧩 Interests: 🎮 Video Games, 🏎️ Formula 1, 🎲 board games, 🧝🏼 High fantasy books
 
@@ -34,6 +34,7 @@ Hi there, I'm Hakan👋
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36"/></a>
@@ -41,7 +42,7 @@ Hi there, I'm Hakan👋
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/hakan-tastan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.kaggle.com/yuulind" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" width="32" /></a> <a href="https://www.github.com/yuuIind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/yuuIind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hakan-tastan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a> <a href="https://huggingface.co/yuulind" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="32" height="32" /></a> <a href="https://www.kaggle.com/yuulind" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" width="32" /></a> </p>
 
 ### Badges
 
