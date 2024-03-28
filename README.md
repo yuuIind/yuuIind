@@ -23,8 +23,8 @@ Hi there, I'm Hakan👋
 * 📌 Izmir, Turkey
 * 🗣️ Languages: **🇹🇷 Turkish, 🇬🇧 English**  🙇 Now learning: **🇪🇸 Spanish, 🇰🇷 Korean** 
 * 📫 You can contact me at [mhakan.tastan@gmail.com](mailto:mhakan.tastan@gmail.com)
-* 📜 Interested in 🤖 Machine Learning and Deep Learning, in particular Computer Vision.
-* 🌱 Learning more about and studying: **Rust, GPU Programming, Computer Graphics**
+* 📜 Interested in 🤖 Machine Learning and Deep Learning, in particular 🧿Computer Vision.
+* 🌱 Learning more about and studying: **🦀Rust, GPU Programming, Computer Graphics**
 * 🧩 Interests: 🎮 Video Games, 🏎️ Formula 1, 🎲 board games, 🧝🏼 High fantasy books
 
 ### Tech Stack & Skills
